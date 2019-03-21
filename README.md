@@ -1,3 +1,3 @@
-Please modify this file so it contains ONLY your full name: Surname & First Name
+Popa Ionut
 
-You can find the related resources at https://github.com/utcn-cs-software-design-tudorv-2019/LabInfo
+Pentru proiectul final,am ales sa fac un online shop.Utilizatorul va putea cauta un produs,adauga in cosul de cumparaturi si la final poate finaliza comanda,introducand o adresa de livrare.
